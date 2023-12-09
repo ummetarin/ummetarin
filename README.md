@@ -1,8 +1,8 @@
+
 <img  alt="codding"  src="https://i.ibb.co/HpNK1NH/Black-and-Neon-Green-Sci-Fi-Futuristic-Minimalist-Gaming-You-Tube-Banner-4.png">
 <h1 align="center">Hi 👋, I'm Umme Homaira</h1>
-<h3 align="center">CSE Student| Web Developer 💻 | Coding Dreams into Reality ✨</h3>
+<h3 align="center">CS Student| Web Developer 💻 | Coding Dreams into Reality ✨</h3>
 <img align="right" alt="codding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummetarin&label=Profile%20views&color=0e75b6&style=flat" alt="ummetarin" /> </p>
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umme homaira tarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umme homaira tarin" height="30" width="40" /></a>
-<a href="https://fb.com/umme homaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umme homaira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/umme-homaira-tarin-2617372a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umme-homaira-tarin-2617372a0/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/farjanaakter.apple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/farjanaakter.apple" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ummetarin&show_icons=true&locale=en" alt="ummetarin" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ummetarin&" alt="ummetarin" /></p>
