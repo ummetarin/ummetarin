@@ -2,6 +2,14 @@
 <img  alt="codding"  src="https://i.ibb.co/HpNK1NH/Black-and-Neon-Green-Sci-Fi-Futuristic-Minimalist-Gaming-You-Tube-Banner-4.png">
 <h1 align="center">Hi 👋, I'm Umme Homaira</h1>
 <h3 align="center">CS Student| Web Developer 💻 | Coding Dreams into Reality ✨</h3>
+<div>
+  <section id="about">
+            <h2>About Me</h2>
+            <p>Hello, I'm a passionate developer based in Your City, Country. Currently working as a Your Current Job Title.
+                My expertise includes Python, JavaScript, and Java. In my free time, I enjoy working on open-source
+                projects, exploring machine learning, and building web applications.</p>
+        </section>
+</div>
 <img align="right" alt="codding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummetarin&label=Profile%20views&color=0e75b6&style=flat" alt="ummetarin" /> </p>
