@@ -4,7 +4,7 @@
 <h3 align="center">CS Student| Web Developer 💻 | Coding Dreams into Reality ✨</h3>
 <div>
   <section id="about">
-            <h2>About Me</h2>
+            <h2 height="50">About Me</h2>
             <p>Hello, I'm a passionate developer based in Your City, Country. Currently working as a Your Current Job Title.
                 My expertise includes Python, JavaScript, and Java. In my free time, I enjoy working on open-source
                 projects, exploring machine learning, and building web applications.</p>
