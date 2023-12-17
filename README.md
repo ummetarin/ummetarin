@@ -7,12 +7,7 @@
             <h2 height="50">About Me</h2>
             <p width="30" height="30" class="color-blue">Hello, I'm a fronted web developer.I can make website with help of heml,css,javascript,react and by other sourse.</p>
           <p height="30">My skills are:</p> 
-    <p>React</p>
-     <p>Javascript</p>
-     <p>Mongodb</p>
-     <p>My sql</p>
-     <p>Firebase</p>
-     <p>node js</p>
+  <b>  <p class="color-green">React,Javascript,Mongodb,Firebase,Node js,Html,CSS,Express Js</p></b>
   </section>
 </div>
 <img align="right" alt="codding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
