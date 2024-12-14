@@ -1,5 +1,5 @@
 
-<img  alt="codding"  src="https://i.ibb.co/HpNK1NH/Black-and-Neon-Green-Sci-Fi-Futuristic-Minimalist-Gaming-You-Tube-Banner-4.png">
+<img  alt="codding"  src="[https://i.ibb.co/HpNK1NH/Black-and-Neon-Green-Sci-Fi-Futuristic-Minimalist-Gaming-You-Tube-Banner-4.png](https://ibb.co.com/hYTWY6Y)">
 <h1 align="center">Hi 👋, I'm Umme Homaira</h1>
 <h3 align="center">CS Student|  Coding Dreams into Reality ✨</h3>
 <div>
