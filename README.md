@@ -1,11 +1,11 @@
 
 <img  alt="codding"  src="https://i.ibb.co/HpNK1NH/Black-and-Neon-Green-Sci-Fi-Futuristic-Minimalist-Gaming-You-Tube-Banner-4.png">
 <h1 align="center">Hi 👋, I'm Umme Homaira</h1>
-<h3 align="center">CS Student| Web Developer 💻 | Coding Dreams into Reality ✨</h3>
+<h3 align="center">CS Student|  Coding Dreams into Reality ✨</h3>
 <div>
   <section id="about">
             <h2 height="50">About Me</h2>
-            <p width="30" height="30" class="color-blue">Hello, I'm a fronted web developer.I can make website with help of heml,css,javascript,react and by other sourse.</p>
+            <p width="30" height="30" class="color-blue">Hello, .I can make website with help of heml,css,javascript,react and by other sourse.</p>
           <p height="30">My skills are:</p> 
   <b>  <p class="color-green">React,Javascript,Mongodb,Firebase,Node js,Html,CSS,Express Js</p></b>
   </section>
